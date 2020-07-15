@@ -1,0 +1,20 @@
+Headings: Use #s followed by a blank space for notebook titles and section headings:
+# title
+## major headings
+### subheadings
+#### 4th level subheadings
+
+Emphasis: Use this code: Bold: __string__ or **string** Italic: _string_ or *string*
+
+Monospace font: Surround text with a back single quotation mark. (`) Use monospace for file path and file names and for text users enter or message text users see.
+
+Line breaks: Sometimes markdown doesn’t make line breaks when you want them. Use 2 spaces or this code for a manual line break: <br>
+
+Indented quoting: Use a greater than sign (>) and then a space, then type the text. The text is indented and has a gray horizontal line to the left of it until the next carriage return.
+
+Bullets: Use the dash sign (- ) with a space after it, or a space, a dash, and a space ( - ), to create a circular bullet. To create a sub bullet, use a tab followed a dash and a space. You can also use an asterisk instead of a dash, and it works the same.
+
+Numbered lists: Start with 1. followed by a space, then it starts numbering for you. Start each line with some number and a period, then a space. Tab to indent to get subnumbering.
+
+Horizontal lines: Use three asterisks: ***
+
