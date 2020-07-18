@@ -1,0 +1,5 @@
+1.python+ anything should be replaced with Python
+2.tableau + anything should be replaced with data analysis
+2.output in list
+use list and replace python
+keyword,df,col
